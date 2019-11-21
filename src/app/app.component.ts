@@ -38,6 +38,7 @@ export class MyApp {
 
 
 
+
   //Logging event (FE): notification_receive(_nr), Bundle[{firebase_event_origin(_o)=fcm, message_device_time(_ndt)=0, _nmc=display, message_time(_nmt)=1573202921, message_id(_nmid)=7145090087411993665}] 
 });
   
