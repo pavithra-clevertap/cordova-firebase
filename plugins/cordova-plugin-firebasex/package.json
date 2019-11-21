@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-firebasex",
+      "/Users/piyushdutta/Documents/Firebase_app"
+    ]
+  ],
+  "_from": "cordova-plugin-firebasex@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-firebasex@6.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-firebasex",
+  "_nodeVersion": "10.15.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-firebasex_6.1.0_1567547691192_0.4415420803642738"
+  },
+  "_npmUser": {
+    "email": "dave@workingedge.co.uk",
+    "name": "davealden"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-firebasex",
+    "raw": "cordova-plugin-firebasex",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-firebasex/-/cordova-plugin-firebasex-6.1.0.tgz",
+  "_shasum": "9859d31ad5e5e6a73ee91c1c92f55dac6ff0b21a",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-firebasex",
+  "_where": "/Users/piyushdutta/Documents/Firebase_app",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "bugs": {
+    "url": "https://github.com/dpa99c/cordova-plugin-firebase/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-firebase",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "plist": "^3.0.1",
+    "q": "^1.5.1",
+    "xcode": "^2.0.0",
+    "xml2js": "^0.4.16"
+  },
+  "description": "Cordova plugin for Google Firebase",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 35,
+    "integrity": "sha512-MsnMjvSbNWGkuXV5CZjzgD/A+st41tzEY2Y3IIC/i0D8IboDdqZ7EfOuv32UDAd26iOfhWvHdemtPQ7xFti8pA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdbuEsCRA9TVsSAnZWagAAB7MP/RNwRsvkGxrhd+liYMXU\nwqmBJdNj6XGLYjJr4UgEbGpW428wyat3olwOwv2Tdq8kJMXxSVkyA45xDEO7\nWwBAWHs5cnG1nANYbIOYRu+HJebdcUTOLiWdkeCs0KIKvBtBa+P+n4eL0CUO\nHMSB9Y83/6qTlvJOuRPGJQzfK8LUxyAEWjM32RiBSf28F+XMPaZbVYNwvmLV\nLs54GzysGUAaRz1t9fu6tBisCCumsm+NGb2gPP+dgqfjZYqkMU15Ht9kzUcG\nkL6W4f/9RhAwEHEEezPFDvP8KAT+h7mw41FYpjxBmL59rBTG8XCZZ9a2ag+N\nwZMd50HdQR2EXXi2Kuoj8h5v6rdREwGLeKsNSoCj9qDp5cOEg5e6//yKOnmx\n+uTSe0BOhipph4S1wVIHrM9kVg8svkGXWq+epsvBestcswYdpld7QXNFY8wa\nfpQhrFoneLw3ieWAVn390lww3/uYM2I+Uuuw4new6bzHdEXlSJrkDHKO/AmA\nNsA6/xX2ojr/j8KQS5KSR5WamMCgm2RcoAC24ftHklC9xGFhONArny3Ep1Lb\nyRWZtSBMnrCw3wWa3AiUHkQMG6uAH9o3J1U5HV2CXEzwytSW/AUdg+rt5Eqr\n3l0SOFv2Hdnv8SERiv4sRNXSH2VIRVAvDBl6w+TC6qCyOAhqwpBlwUiMrmR6\nVmFd\r\n=DbR5\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "9859d31ad5e5e6a73ee91c1c92f55dac6ff0b21a",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-firebasex/-/cordova-plugin-firebasex-6.1.0.tgz",
+    "unpackedSize": 263599
+  },
+  "gitHead": "412b73609031e7f9835ec1fab5fb2dde3e6a3cf9",
+  "homepage": "https://github.com/dpa99c/cordova-plugin-firebase#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "firebase",
+    "push",
+    "notifications",
+    "phone auth"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "dave@workingedge.co.uk",
+      "name": "davealden"
+    }
+  ],
+  "name": "cordova-plugin-firebasex",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpa99c/cordova-plugin-firebase.git"
+  },
+  "scripts": {
+    "postversion": "git push && git push --tags && npm publish --verbose",
+    "test": "npm run test:ios && npm run test:android",
+    "test:android": "bash ./test/test-default.sh 9.0.0 android 8.1.0 && bash ./test/test-with-3-plugins.sh 9.0.0 android 8.1.0 cordova-plugin-request-location-accuracy cordova-android-play-services-gradle-release cordova-android-firebase-gradle-release",
+    "test:ios": "bash ./test/test-default.sh 9.0.0 ios 5.0.1",
+    "version": "node ./bump-version.js && git add -A plugin.xml"
+  },
+  "version": "6.1.0"
+}

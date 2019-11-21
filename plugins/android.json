@@ -1,0 +1,56 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-firebasex": {
+      "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "true",
+      "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "true",
+      "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "true",
+      "ANDROID_ICON_ACCENT": "#FF00FFFF",
+      "ANDROID_PLAY_SERVICES_TAGMANAGER_VERSION": "17.0.0",
+      "ANDROID_FIREBASE_CORE_VERSION": "17.0.0",
+      "ANDROID_FIREBASE_MESSAGING_VERSION": "19.0.0",
+      "ANDROID_FIREBASE_CONFIG_VERSION": "18.0.0",
+      "ANDROID_FIREBASE_PERF_VERSION": "18.0.0",
+      "ANDROID_FIREBASE_AUTH_VERSION": "18.0.0",
+      "ANDROID_CRASHLYTICS_VERSION": "2.10.1",
+      "ANDROID_CRASHLYTICS_NDK_VERSION": "2.1.0",
+      "ANDROID_SHORTCUTBADGER_VERSION": "1.1.22",
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "clevertap-cordova": {
+      "CLEVERTAP_ACCOUNT_ID": "8RK-ZZ6-W75Z",
+      "CLEVERTAP_TOKEN": "611-32b",
+      "CLEVERTAP_REGION": " ",
+      "PACKAGE_NAME": "io.FirebaseTest.com"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "io.ionic.starter"
+    }
+  }
+}

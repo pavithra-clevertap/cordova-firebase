@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-androidx-adapter@^1.1.0",
+      "/Users/piyushdutta/Documents/Firebase_app"
+    ]
+  ],
+  "_from": "cordova-plugin-androidx-adapter@>=1.1.0 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-androidx-adapter@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-androidx-adapter",
+  "_nodeVersion": "10.15.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-androidx-adapter_1.1.0_1561059546513_0.4581963051868132"
+  },
+  "_npmUser": {
+    "email": "dave@workingedge.co.uk",
+    "name": "davealden"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-androidx-adapter",
+    "raw": "cordova-plugin-androidx-adapter@^1.1.0",
+    "rawSpec": "^1.1.0",
+    "scope": null,
+    "spec": ">=1.1.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-androidx-adapter/-/cordova-plugin-androidx-adapter-1.1.0.tgz",
+  "_shasum": "5696f0c972242ded2ecbd73bd6dadfdb42d6e274",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-androidx-adapter@^1.1.0",
+  "_where": "/Users/piyushdutta/Documents/Firebase_app",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "dependencies": {
+    "performance-now": "^2.1.0",
+    "q": "^1.4.1",
+    "recursive-readdir": "^2.2.2"
+  },
+  "description": "Cordova/Phonegap plugin to migrate any code which references the legacy Android Support Library to the new AndroidX mappings in a Cordova Android platform project.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 6,
+    "integrity": "sha512-V09W27ViYnh54fR2eilswXt10DrQ1P23fo+3JdbrHqU5HkNfufWojK9dWPzDYQ6xKQkOkUJcEh6tLWxg5hQdgg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdC+DbCRA9TVsSAnZWagAACOUP/0Xg+SGMTgKpzdo4H2g2\ncHfGY+0+gS7Xs7KugvR7ede4IGrsqEhziMhUc9Iiancc8OIu1RA5zgVFOgZL\nyQBBvxC7KOG5f+I5W2uzJsPPqRt/nZCRm1MLx2LV9SVc+SsYY2QLdgoL926P\n3kSHjAxb6cFRBNB2Va30mguqsRVNrKHFYp8VENyfTs79rZ6nYg5euEbd7/0M\n91wJslNeQp0TlZomSnnnakswBV//+ayQWqPVKyo2VZsDBxwrFTMWzZTjiZOk\nLlhyc9TeR+ypqc62otyF+FiJRdqROuCK0kY4sxcZbN5zllpDIEwta9bytGI6\nZuQnsg1zbyfqaTSOIbXqYOWduormYOFlzGhOgA/b66p4i/Bvg1Cei3jhoC0J\n/Waa538ra7BIcp3yuxid3f8oXgGZWeJcW7j7hkW2ojgin1yuuLPVGrYUuLwt\n+KX1a+uHPS3X37p7CXxmJj3c++1ksxcJ/DpGwo5tfTgELhAdiT5qwQM1a7ly\nXXa740D0djkT5QYhtS2EO2kay+eV17EcniGZV4ulTYCMKkZZrMuzWyVbJMtW\n5Nw1zw7RoP2gzA42+oep1esAZhK45/c/L3Rm7IMwCtoBwHvhln998ORge3gY\nur0RVV1hckX0P5RC9utBBLj60rSZFN1M53KyeehRh/6qMnauD8OAmkGOTbzA\n69yH\r\n=D1eU\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "5696f0c972242ded2ecbd73bd6dadfdb42d6e274",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-androidx-adapter/-/cordova-plugin-androidx-adapter-1.1.0.tgz",
+    "unpackedSize": 218265
+  },
+  "gitHead": "ec39888055d5e425cb9e71f8b5b6c910cd18f6e1",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "dave@workingedge.co.uk",
+      "name": "davealden"
+    }
+  ],
+  "name": "cordova-plugin-androidx-adapter",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.1.0"
+}

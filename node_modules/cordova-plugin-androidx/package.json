@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-androidx@^1.0.2",
+      "/Users/piyushdutta/Documents/Firebase_app"
+    ]
+  ],
+  "_from": "cordova-plugin-androidx@>=1.0.2 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-androidx@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-androidx",
+  "_nodeVersion": "8.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-androidx_1.0.2_1559631477118_0.3161889599698633"
+  },
+  "_npmUser": {
+    "email": "dave@workingedge.co.uk",
+    "name": "davealden"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-androidx",
+    "raw": "cordova-plugin-androidx@^1.0.2",
+    "rawSpec": "^1.0.2",
+    "scope": null,
+    "spec": ">=1.0.2 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-androidx/-/cordova-plugin-androidx-1.0.2.tgz",
+  "_shasum": "a48d3fabf20beb4273171fdece0b524362b2643f",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-androidx@^1.0.2",
+  "_where": "/Users/piyushdutta/Documents/Firebase_app",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "description": "Cordova/Phonegap plugin to enable AndroidX",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 4,
+    "integrity": "sha512-gA0Ugz3xXRndZ5+QV+T2BjigNt5YraC+uDA/gOEM6p4m4ofwqFAPoHA4Q17VIHnRtn9++OYoa1Gi44+l6blGhA==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJc9hZ1CRA9TVsSAnZWagAAvyAP/joDAOqlwp+SUI2zCDwI\nOj6gAckfXwPJRVtuuZR7z3GKMc6RPyhyJJKruaWjvXY+MIE5LmVhJu+FyZq5\nnlw+xenA52R+DYM52tIA5X2uBO+yV+O320rTIi/3BRk2ZTe77AyYEUGxUyML\nNEV2pcjNt1l2gaVq9SV8NdHSbT0DnC/yifp6kVrQ32ca00DDkDkWL56xAlTR\nZMkwWSf3pguuyAMK35hFjrIHwkncFojwSwdxXsJGf3jktLkntSaDvBOeF+IM\n8MdhpoNqpov8r+mBgSwn6jEkb0KfGvTnGtvAtYWrClOhREw3Ttteg2hKY1aJ\nRQqYOF7cgLm48EF/0bx5qSMTU8egIHmlGqWD1luZ9aHwLU/LX34VqwIGFdx5\nU4XPzX7loAGJU2lcfaEALwl4wZm1OX/coa5CbfjRgUMCNWhQFgwHXDYkfhs7\nanUCN1GCnF18I4BfHHtEH9EHmENDwVpN7FOlXgyCvKmyYHNcLOKa12dkwKqi\nvEgsaP7l0PJKRVM1nSOIIDQpe23Exxlubjc50wjoVEu8fs/uenBdUf6m3GIT\nSWMgaNZJZ4D2PjTsO4tGeAC6pGDrEbD3gnAbEovYOValmqTGu2JGobp9RpcO\nFqR/OgweXu9dPjek8Qklw4EfxmzHCyS7zqZ9jCctSG3aLdjmSd4rX3Kklxam\nu0u3\r\n=h+Kp\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "a48d3fabf20beb4273171fdece0b524362b2643f",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-androidx/-/cordova-plugin-androidx-1.0.2.tgz",
+    "unpackedSize": 5438
+  },
+  "gitHead": "2c82a8deee530ad447a603d5dc8d346127959458",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "dave@workingedge.co.uk",
+      "name": "davealden"
+    }
+  ],
+  "name": "cordova-plugin-androidx",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "version": "1.0.2"
+}
