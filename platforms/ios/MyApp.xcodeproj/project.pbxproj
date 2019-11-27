@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0207DA571B56EA530066E2B4 /* Images.xcassets */; };
 		04AE77904253449C8AA19B4B /* SDWebImage.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3B81AF9AA41E4CF29B170325 /* SDWebImage.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
